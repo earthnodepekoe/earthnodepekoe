@@ -30,10 +30,10 @@ By staking with Pekoe, you are not only earning optimal rewards but also empower
 - **Supporting Tea Culture 🍵** – Championing the farmers behind unique and heroic teas, giving them access to global markets and financial tools.
 
 ## 🌎 Why Stake with Pekoe?
-✅ **Reliable Infrastructure** – Our node is monitored 24/7 to ensure uptime and efficiency.
-✅ **Decentralization First** – We uphold the true spirit of blockchain, contributing to a robust and distributed World Mobile ecosystem.
-✅ **Impact Staking** – Your rewards fuel real-world change by connecting tea-growing communities to the future.
-✅ **Transparency & Community Focused** – Regular updates, governance participation, and an open communication policy.
+- ✅ **Reliable Infrastructure** – Our node is monitored 24/7 to ensure uptime and efficiency.
+- ✅ **Decentralization First** – We uphold the true spirit of blockchain, contributing to a robust and distributed World Mobile ecosystem.
+- ✅ **Impact Staking** – Your rewards fuel real-world change by connecting tea-growing communities to the future.
+- ✅ **Transparency & Community Focused** – Regular updates, governance participation, and an open communication policy.
 
 ## 🤝 Join the Revolution
 - Visit our website: **[Coming Soon]**
