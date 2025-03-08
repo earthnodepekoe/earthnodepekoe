@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pekoe 🌍🍃 | The heroic EarthNode.
+# Pekoe 🌍🍃 | The heroic's WorldMobile EarthNode.
 
 ![PEKOE EN TWITTER](https://github.com/user-attachments/assets/82a9734f-8a58-4a5e-b19f-9c047eb48ec1)
 
