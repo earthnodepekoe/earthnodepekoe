@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **earthnodepekoe/earthnodepekoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pekoe 🌍🍃 | The EarthNode of Heroes
+# Pekoe 🌍🍃 | The heroic EarthNode.
 
-![Pekoe](PEKOE_EN_TWITTER.jpg)
+![PEKOE EN TWITTER](https://github.com/user-attachments/assets/82a9734f-8a58-4a5e-b19f-9c047eb48ec1)
 
 ## 🚀 About Pekoe
 Pekoe is not just an EarthNode operator; it's a movement. We are committed to securing the World Mobile network while maximizing rewards for our delegators. But we go beyond blockchain—we bring connectivity to the most remote and heroic tea plantations on Earth.
@@ -36,9 +36,8 @@ By staking with Pekoe, you are not only earning optimal rewards but also empower
 - ✅ **Transparency & Community Focused** – Regular updates, governance participation, and an open communication policy.
 
 ## 🤝 Join the Revolution
-- Visit our website: **[Coming Soon]**
-- Follow us on Twitter: **[Coming Soon]**
-- Join our Telegram/Discord: **[Coming Soon]**
+- [Website](https://pekoe.earth)
+- [Twitter](https://x.com/earthnodepekoe/)
 
 Stake with Pekoe today and be part of something greater—a decentralized future where technology, sustainability, and tradition unite! 🌿🚀
 
