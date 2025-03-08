@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Pekoe 🌍🍃 | The heroic's WorldMobile EarthNode.
+# Pekoe 🌍🌱 | The heroic's WorldMobile EarthNode.
 
 ![PEKOE EN TWITTER](https://github.com/user-attachments/assets/82a9734f-8a58-4a5e-b19f-9c047eb48ec1)
 
@@ -23,7 +23,7 @@ Pekoe is not just an EarthNode operator; it's a movement. We are committed to se
 
 By staking with Pekoe, you are not only earning optimal rewards but also empowering communities that cultivate the rarest and most exceptional teas, ensuring they thrive in the digital age.
 
-## 🌱 Our Mission
+## 🍃 Our Mission
 - **Top-Tier Security 🔒** – Our EarthNode operates with the highest security standards to ensure stability and trust.
 - **Maximized Rewards 💰** – We optimize staking performance to bring the best possible returns to our delegators.
 - **Bridging Connectivity 📡** – Expanding World Mobile’s network to tea plantations in the most remote corners of the world.
